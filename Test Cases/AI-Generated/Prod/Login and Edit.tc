@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>1bbe4f97-83ec-499e-842d-b1c42618982b</id>
+        </flow>
+    </customField>
+    <description></description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "Manual Session", "assignee": "pravin.raveendran@katalon.com", "linkedTestCaseIds": [15073824]}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>Login and Edit</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>ad3dda55-c9eb-4a40-ad2d-287603658c4d</testCaseGuid>
+    <variable>
+        <defaultValue>'Edit'</defaultValue>
+        <description>Step 3: Click on button editDelete (edit) - (Dynamic locator variable)</description>
+        <id>2a6c41e4-2688-47ca-b626-e42a48f0d6da</id>
+        <masked>false</masked>
+        <name>button_editDelete_buttonInternalText</name>
+    </variable>
+    <variable>
+        <defaultValue>'Delete'</defaultValue>
+        <description>Step 7: Click on button editDelete (delete) - (Dynamic locator variable)</description>
+        <id>41c0664b-065f-45f7-a055-8cb18275c090</id>
+        <masked>false</masked>
+        <name>button_editDelete_buttonInternalText_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'tr:nth-of-type(1) .btn-info'</defaultValue>
+        <description>Step 3: Click on button editDelete (edit) - (Dynamic locator variable)</description>
+        <id>5cb8a9d2-db66-43ab-9e76-d1cc571c2406</id>
+        <masked>false</masked>
+        <name>button_editDelete_css_value</name>
+    </variable>
+    <variable>
+        <defaultValue>'tr:nth-of-type(2) .btn-error'</defaultValue>
+        <description>Step 7: Click on button editDelete (delete) - (Dynamic locator variable)</description>
+        <id>7bc1bde9-3843-4427-ba1f-76df280f425c</id>
+        <masked>false</masked>
+        <name>button_editDelete_css_value_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'0'</defaultValue>
+        <description>Step 3: Click on button editDelete (edit) - (Dynamic locator variable)</description>
+        <id>8f856bd4-23e4-47da-8b3d-d08659f42f10</id>
+        <masked>false</masked>
+        <name>button_editDelete_sNth</name>
+    </variable>
+    <variable>
+        <defaultValue>'1'</defaultValue>
+        <description>Step 7: Click on button editDelete (delete) - (Dynamic locator variable)</description>
+        <id>c2fdb4bc-fea0-4913-ac54-e0dc8f10fd70</id>
+        <masked>false</masked>
+        <name>button_editDelete_sNth_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 5: Enter input value in input jobTitle - (Input data variable)</description>
+        <id>65ac12d2-2eac-4eaf-b5eb-998ee4c6c129</id>
+        <masked>false</masked>
+        <name>input_jobTitle</name>
+    </variable>
+</TestCaseEntity>

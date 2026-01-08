@@ -1,0 +1,50 @@
+{
+    "version": "3",
+    "steps": [
+        {
+            "name": "Navigate to /",
+            "sub_steps": [],
+            "target_name": ""
+        },
+        {
+            "name": "Login",
+            "sub_steps": [],
+            "target_name": ""
+        },
+        {
+            "name": "Click on button editDelete (edit)",
+            "sub_steps": [],
+            "target_name": "button_editDelete"
+        },
+        {
+            "name": "Click on input jobTitle",
+            "sub_steps": [],
+            "target_name": "input_jobTitle"
+        },
+        {
+            "name": "Enter input value in input jobTitle",
+            "sub_steps": [],
+            "target_name": "input_jobTitle"
+        },
+        {
+            "name": "Click on button save",
+            "sub_steps": [],
+            "target_name": "button_save"
+        },
+        {
+            "name": "Click on button editDelete (delete)",
+            "sub_steps": [],
+            "target_name": "button_editDelete"
+        },
+        {
+            "name": "Click on button logout -> Navigate to page ''",
+            "sub_steps": [],
+            "target_name": "button_logout"
+        },
+        {
+            "name": "Take full page screenshot as checkpoint",
+            "sub_steps": [],
+            "target_name": ""
+        }
+    ]
+}
