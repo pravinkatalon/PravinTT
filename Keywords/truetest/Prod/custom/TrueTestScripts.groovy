@@ -13,6 +13,7 @@ import internal.GlobalVariable
 import java.util.regex.Pattern
 import org.openqa.selenium.WebElement
 import org.openqa.selenium.interactions.Actions
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 
 public class TrueTestScripts {
     
