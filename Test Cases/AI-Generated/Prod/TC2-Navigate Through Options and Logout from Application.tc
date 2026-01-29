@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>6f7baa8a-51ac-450a-bf17-9a19c1b56254</id>
+        </flow>
+    </customField>
+    <description>Log in to the home page, navigate through various options multiple times, and log out. Verify that the user is returned to the home page.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "User Session"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC2-Navigate Through Options and Logout from Application</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>48db0f6b-9fb0-4153-8976-7883ef8d7256</testCaseGuid>
+    <variable>
+        <defaultValue>'Reports'</defaultValue>
+        <description>Step 4: Click on button navigationOptions (reports) - (Dynamic locator variable)</description>
+        <id>c987445c-214c-42b5-b7ad-0ffba8d35a10</id>
+        <masked>false</masked>
+        <name>button_navigationOptions_ButtonInternalText</name>
+    </variable>
+    <variable>
+        <defaultValue>'Settings'</defaultValue>
+        <description>Step 5: Click on button navigationOptions (settings) - (Dynamic locator variable)</description>
+        <id>2cfa5ea1-fe8e-4634-a2a8-628d941afa00</id>
+        <masked>false</masked>
+        <name>button_navigationOptions_ButtonInternalText_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'About (Lorem)'</defaultValue>
+        <description>Step 6: Click on button navigationOptions (about) - (Dynamic locator variable)</description>
+        <id>0c4bbbda-accb-41e0-a111-5dbaafe9270b</id>
+        <masked>false</masked>
+        <name>button_navigationOptions_ButtonInternalText_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'li:nth-of-type(2) &gt; button'</defaultValue>
+        <description>Step 4: Click on button navigationOptions (reports) - (Dynamic locator variable)</description>
+        <id>c6a7390f-57c1-4a0a-b50d-a3f9e91cdfa9</id>
+        <masked>false</masked>
+        <name>button_navigationOptions_css_value</name>
+    </variable>
+    <variable>
+        <defaultValue>'li:nth-of-type(3) &gt; button'</defaultValue>
+        <description>Step 5: Click on button navigationOptions (settings) - (Dynamic locator variable)</description>
+        <id>0ca3fec1-a1b7-40bf-ab98-887689210107</id>
+        <masked>false</masked>
+        <name>button_navigationOptions_css_value_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'li:nth-of-type(4) &gt; button'</defaultValue>
+        <description>Step 6: Click on button navigationOptions (about) - (Dynamic locator variable)</description>
+        <id>3e62a37d-1eaa-49db-aca1-3672b71718eb</id>
+        <masked>false</masked>
+        <name>button_navigationOptions_css_value_2</name>
+    </variable>
+</TestCaseEntity>

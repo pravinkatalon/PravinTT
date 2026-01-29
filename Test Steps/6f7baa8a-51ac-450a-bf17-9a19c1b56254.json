@@ -1,0 +1,71 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "41e0458d-b90c-4579-b57c-c9c7ccdcfba0",
+      "name": "Navigate to /",
+      "sub_steps": [],
+      "target_name": "",
+      "target_test_object_id": ""
+    },
+    {
+      "id": "ab7db831-9349-4edc-82db-d543f423e5d9",
+      "name": "Login",
+      "sub_steps": [],
+      "action_id": "9ccefc75-51b9-4404-968b-fb499df707ee",
+      "timestamp": 1769640510347,
+      "target_name": "",
+      "target_test_object_id": ""
+    },
+    {
+      "id": "f24df146-c2d9-4914-81a2-8eafb74088d3",
+      "name": "Navigate to /",
+      "sub_steps": [],
+      "target_name": "",
+      "target_test_object_id": ""
+    },
+    {
+      "id": "82731b35-0dc9-4d26-aee7-f1dafeb76f3c",
+      "name": "Click on button navigationOptions (reports)",
+      "sub_steps": [],
+      "action_id": "ec3da9d5-47b6-4bf6-bc55-3d3256ed6730",
+      "timestamp": 1769640547446,
+      "target_name": "button_navigationOptions",
+      "target_test_object_id": "97bf9a58-f8c1-4aff-a1bc-152c504232ba"
+    },
+    {
+      "id": "c3a75995-80e1-45e4-8446-93927f5b4a96",
+      "name": "Click on button navigationOptions (settings)",
+      "sub_steps": [],
+      "action_id": "3979c946-e9a3-4133-b7fc-4cc616a54295",
+      "timestamp": 1769640549495,
+      "target_name": "button_navigationOptions",
+      "target_test_object_id": "ddbe45d9-6033-4d74-ab4e-c5618921a9f0"
+    },
+    {
+      "id": "5dfa8cb5-872e-4285-a2a3-c1e918f65800",
+      "name": "Click on button navigationOptions (about)",
+      "sub_steps": [],
+      "action_id": "013f3de1-72b1-4536-93fa-9d2c7cbe9050",
+      "timestamp": 1769640552379,
+      "target_name": "button_navigationOptions",
+      "target_test_object_id": "c72dc153-4308-43e5-98ea-86be8c3f9817"
+    },
+    {
+      "id": "d5376a6b-4369-4db8-a61d-146e1e5ae9ca",
+      "name": "Click on button logout2 -> Navigate to page ''",
+      "sub_steps": [],
+      "action_id": "94cfb4bd-7c28-4df9-ada3-021dfdd633f8",
+      "timestamp": 1769640554397,
+      "target_name": "button_logout2",
+      "target_test_object_id": "b5e2041f-057f-4820-9ac5-2b73af8792e4"
+    },
+    {
+      "id": "a723c57e-33b8-4d3c-8a01-b43422fbe08e",
+      "name": "Take full page screenshot as checkpoint",
+      "sub_steps": [],
+      "target_name": "",
+      "target_test_object_id": ""
+    }
+  ]
+}
