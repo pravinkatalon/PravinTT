@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>ef7492ee-af29-4b82-b43a-006a2a6c2eb1</id>
+        </flow>
+    </customField>
+    <description></description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "Manual Session", "assignee": "pravin.raveendran@katalon.com", "linkedTestCaseIds": [15720660]}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>Login and Delete All Employees</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>5a36c7be-9c5c-4aa1-ae86-242e5e98ce2f</testCaseGuid>
+</TestCaseEntity>

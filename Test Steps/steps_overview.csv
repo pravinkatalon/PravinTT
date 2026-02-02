@@ -1,22 +1,11 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-1,Edit User Profile and Logout from Application,"Navigate to the home page, log in, edit user details, save changes, and log out. Verify that the user is returned to the home page.","Step 1: Navigate to /
-Step 2: Click on html object
-Step 3: Login
-Step 4: Navigate to /
-Step 5: Click on button editDelete (edit)
-Step 6: Click on input name (name)
-Step 7: Enter input value in input name (name)
-Step 8: Click on button save
-Step 9: Click on button editDelete (delete)
-Step 10: Click on button logout -> Navigate to page ''
-Step 11: Take full page screenshot as checkpoint
-",High,STABLE
-2,Navigate Through Options and Logout from Application,"Log in to the home page, navigate through various options multiple times, and log out. Verify that the user is returned to the home page.","Step 1: Navigate to /
+1,Login and Delete All Employees,,"Step 1: Navigate to /
 Step 2: Login
 Step 3: Navigate to /
-Step 4: Click on button navigationOptions (reports)
-Step 5: Click on button navigationOptions (settings)
-Step 6: Click on button navigationOptions (about)
-Step 7: Click on button logout2 -> Navigate to page ''
-Step 8: Take full page screenshot as checkpoint
-",Trivial,STABLE
+Step 4: Click on button delete
+Step 5: Click on button delete2
+Step 6: Click on button delete3
+Step 7: Click on button reports
+Step 8: Click on button logout -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",Trivial,NEW

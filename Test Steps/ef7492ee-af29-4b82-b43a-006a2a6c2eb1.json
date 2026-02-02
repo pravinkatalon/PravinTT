@@ -1,0 +1,80 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "8308e8f4-2234-46a1-abf0-9c423fbcc6ab",
+      "name": "Navigate to /",
+      "sub_steps": [],
+      "target_name": "",
+      "target_test_object_id": ""
+    },
+    {
+      "id": "828b80bf-b1d9-4a38-a0c4-e04817ef75fe",
+      "name": "Login",
+      "sub_steps": [],
+      "action_id": "eefc6ae4-e783-4949-8d8f-0a3ce66f1c0f",
+      "timestamp": 1770035939674,
+      "target_name": "",
+      "target_test_object_id": ""
+    },
+    {
+      "id": "4ad1d9f0-aa16-4cd7-9276-7b0be756069a",
+      "name": "Navigate to /",
+      "sub_steps": [],
+      "target_name": "",
+      "target_test_object_id": ""
+    },
+    {
+      "id": "aa77a023-5412-4995-ade2-d6d306dcde08",
+      "name": "Click on button delete",
+      "sub_steps": [],
+      "action_id": "4fe0c31a-ab41-406d-9c2f-796a78c2d71b",
+      "timestamp": 1770035956727,
+      "target_name": "button_delete",
+      "target_test_object_id": "1ff80f3d-ac90-4faf-a297-e529823ba1a3"
+    },
+    {
+      "id": "d7ed7c2a-9c01-4b8b-8051-1346619667e6",
+      "name": "Click on button delete2",
+      "sub_steps": [],
+      "action_id": "05052b5e-c8c4-47f2-8000-1f2227b7fb18",
+      "timestamp": 1770035957463,
+      "target_name": "button_delete2",
+      "target_test_object_id": "5e7bddc9-81c4-4622-93ee-d497692ba03f"
+    },
+    {
+      "id": "23fcaacb-b178-4060-af7d-ebde81a38af2",
+      "name": "Click on button delete3",
+      "sub_steps": [],
+      "action_id": "53a73d9c-2629-4ef4-8b4e-3062b48f9345",
+      "timestamp": 1770035958192,
+      "target_name": "button_delete3",
+      "target_test_object_id": "25968f4e-d329-4bef-8cdf-8052148122e5"
+    },
+    {
+      "id": "80946d52-6ba3-478d-ab2c-06d73b8f890e",
+      "name": "Click on button reports",
+      "sub_steps": [],
+      "action_id": "544a817e-9f69-4091-87b4-a379f1bbf016",
+      "timestamp": 1770035959405,
+      "target_name": "button_reports",
+      "target_test_object_id": "8238beea-788b-4a6b-8bec-17df25d5e8dd"
+    },
+    {
+      "id": "ce9de9b2-e444-4725-b29b-39880f70c1af",
+      "name": "Click on button logout -> Navigate to page ''",
+      "sub_steps": [],
+      "action_id": "4d61b7ca-d3bb-4845-a521-8078635cac3b",
+      "timestamp": 1770035960515,
+      "target_name": "button_logout",
+      "target_test_object_id": "b5e2041f-057f-4820-9ac5-2b73af8792e4"
+    },
+    {
+      "id": "f84c454b-bfac-460c-837a-87fdcccd8f3e",
+      "name": "Take full page screenshot as checkpoint",
+      "sub_steps": [],
+      "target_name": "",
+      "target_test_object_id": ""
+    }
+  ]
+}
