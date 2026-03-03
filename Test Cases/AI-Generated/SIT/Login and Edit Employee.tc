@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>e53d9b4b-499e-4d54-ab38-7b51dcd6bde2</id>
+        </flow>
+    </customField>
+    <description></description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "Manual Session", "assignee": "pravin.raveendran@katalon.com", "linkedTestCaseIds": [15367456]}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>Login and Edit Employee</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>b1afa6db-a834-47b1-afd2-70482f23a6fd</testCaseGuid>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 3: Enter input value in input loginCredentials (username) - (Input data variable)</description>
+        <id>8fd08700-1550-4d93-95fc-be7cf93e6f5a</id>
+        <masked>false</masked>
+        <name>input_loginCredentials</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 5: Enter input value in input loginCredentials (password) - (Input data variable)</description>
+        <id>f1143c97-c169-43e5-871d-6398d3570953</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 10: Enter input value in input loginCredentials (usernameLoginId) - (Input data variable)</description>
+        <id>47c2644d-9486-415b-a7e7-81eac599bf3c</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 12: Enter input value in input loginCredentials (password) - (Input data variable)</description>
+        <id>afe892e8-5944-4d3b-8bea-1c3703417bcf</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'Username'</defaultValue>
+        <description>Step 2: Click on input loginCredentials (username) - (Dynamic locator variable)</description>
+        <id>b878f3b9-9cc2-4843-8df5-4ce290fa6a5f</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_InternalLabel</name>
+    </variable>
+    <variable>
+        <defaultValue>'Username'</defaultValue>
+        <description>Step 3: Enter input value in input loginCredentials (username) - (Dynamic locator variable)</description>
+        <id>600cfe7c-e891-447d-85e9-4cd453c4c6d6</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_InternalLabel_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Password'</defaultValue>
+        <description>Step 4: Click on input loginCredentials (password) - (Dynamic locator variable)</description>
+        <id>020b1db4-22d4-49aa-b6e2-4d5e1a390137</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_InternalLabel_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'Password'</defaultValue>
+        <description>Step 5: Enter input value in input loginCredentials (password) - (Dynamic locator variable)</description>
+        <id>10805504-8eb6-464f-9f96-38c7745e4af1</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_InternalLabel_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'Username (Login ID)'</defaultValue>
+        <description>Step 9: Click on input loginCredentials (usernameLoginId) - (Dynamic locator variable)</description>
+        <id>b1fe788d-ab1e-4c2c-8bf6-5c6b229badff</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_InternalLabel_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'Username (Login ID)'</defaultValue>
+        <description>Step 10: Enter input value in input loginCredentials (usernameLoginId) - (Dynamic locator variable)</description>
+        <id>0fd36005-7839-468e-8143-5cc136b40145</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_InternalLabel_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'Password'</defaultValue>
+        <description>Step 11: Click on input loginCredentials (password) - (Dynamic locator variable)</description>
+        <id>c2cdb71f-8ea6-484d-b2e0-a9eeafaf2042</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_InternalLabel_6</name>
+    </variable>
+    <variable>
+        <defaultValue>'Password'</defaultValue>
+        <description>Step 12: Enter input value in input loginCredentials (password) - (Dynamic locator variable)</description>
+        <id>24c82e7c-1031-47a6-88a0-a1d664b06e73</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_InternalLabel_7</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_0_\\"]'</defaultValue>
+        <description>Step 2: Click on input loginCredentials (username) - (Dynamic locator variable)</description>
+        <id>3db09c49-0353-4e65-84cd-53494ce60d52</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_css_value</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_0_\\"]'</defaultValue>
+        <description>Step 3: Enter input value in input loginCredentials (username) - (Dynamic locator variable)</description>
+        <id>ececd43c-75d0-4872-b23f-1c109d13d884</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_css_value_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_1_\\"]'</defaultValue>
+        <description>Step 4: Click on input loginCredentials (password) - (Dynamic locator variable)</description>
+        <id>d2c0311f-b097-4e9d-a9b3-c61052b6a57a</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_css_value_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_1_\\"]'</defaultValue>
+        <description>Step 5: Enter input value in input loginCredentials (password) - (Dynamic locator variable)</description>
+        <id>b961514a-957f-4f5f-9dcf-93a779329015</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_css_value_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_6_\\"]'</defaultValue>
+        <description>Step 9: Click on input loginCredentials (usernameLoginId) - (Dynamic locator variable)</description>
+        <id>1a2e3943-2a35-4721-8575-227c5217c41e</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_css_value_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_6_\\"]'</defaultValue>
+        <description>Step 10: Enter input value in input loginCredentials (usernameLoginId) - (Dynamic locator variable)</description>
+        <id>c7a2c1ec-e94a-4dbd-93a4-c4df2ced8d2d</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_css_value_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_7_\\"]'</defaultValue>
+        <description>Step 11: Click on input loginCredentials (password) - (Dynamic locator variable)</description>
+        <id>70a15748-19bd-46cb-8106-285e1da01eee</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_css_value_6</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_7_\\"]'</defaultValue>
+        <description>Step 12: Enter input value in input loginCredentials (password) - (Dynamic locator variable)</description>
+        <id>40e77e57-8c97-4230-83e6-9e8a3f2bddd6</id>
+        <masked>false</masked>
+        <name>input_loginCredentials_css_value_7</name>
+    </variable>
+</TestCaseEntity>
