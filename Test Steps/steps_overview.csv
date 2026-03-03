@@ -1,11 +1,17 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-1,Login and Delete All Employees,,"Step 1: Navigate to /
-Step 2: Login
-Step 3: Navigate to /
-Step 4: Click on button delete
-Step 5: Click on button delete2
-Step 6: Click on button delete3
-Step 7: Click on button reports
-Step 8: Click on button logout -> Navigate to page ''
-Step 9: Take full page screenshot as checkpoint
+1,Login and Edit Advanced,,"Step 1: Navigate to /
+Step 2: Click on input loginCredentials (username)
+Step 3: Enter input value in input loginCredentials (username)
+Step 4: Click on input loginCredentials (password)
+Step 5: Enter input value in input loginCredentials (password)
+Step 6: Click on button login -> Navigate to page '/admin/dashboard'
+Step 7: Click on button employees -> Navigate to page '/admin/employees'
+Step 8: Click on span icon
+Step 9: Click on input loginCredentials (usernameLoginId)
+Step 10: Enter input value in input loginCredentials (usernameLoginId)
+Step 11: Click on input loginCredentials (password)
+Step 12: Enter input value in input loginCredentials (password)
+Step 13: Click on button saveEmployee
+Step 14: Click on button logout -> Navigate to page ''
+Step 15: Take full page screenshot as checkpoint
 ",Trivial,NEW

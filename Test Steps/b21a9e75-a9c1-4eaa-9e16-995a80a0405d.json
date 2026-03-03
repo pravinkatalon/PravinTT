@@ -1,0 +1,136 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "2e911f0d-3bd5-4bc9-be26-0d2a335b6f0d",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "2cd2d6ef-b72b-4421-8cec-ac60d4877bab",
+      "name": "Click on input loginCredentials (username)",
+      "action_id": "d41b9fc3-23e5-40de-a326-4128482e7108",
+      "timestamp": 1772536217297,
+      "target_name": "input_loginCredentials",
+      "target_test_object_id": "3bf5b8aa-8163-4341-88dd-9c307a256786",
+      "sub_steps": []
+    },
+    {
+      "id": "d3c9c3dd-dbb9-4a0b-b3ef-9ae96d75ec5a",
+      "name": "Enter input value in input loginCredentials (username)",
+      "action_id": "f0c199c5-4cfc-4400-bb9c-5c9b651aa93a",
+      "timestamp": 1772536218480,
+      "target_name": "input_loginCredentials",
+      "target_test_object_id": "3bf5b8aa-8163-4341-88dd-9c307a256786",
+      "sub_steps": []
+    },
+    {
+      "id": "c87fd033-29b1-4540-ae7c-57e0a140d5d7",
+      "name": "Click on input loginCredentials (password)",
+      "action_id": "c8876cd0-e0e3-4eb5-8f55-c2bfa17d846b",
+      "timestamp": 1772536220650,
+      "target_name": "input_loginCredentials",
+      "target_test_object_id": "0c78a466-5160-4bfa-bbce-cbfa436e34cf",
+      "sub_steps": []
+    },
+    {
+      "id": "59a3b851-89b9-4540-bbeb-4fd5b163be13",
+      "name": "Enter input value in input loginCredentials (password)",
+      "action_id": "86dd2d4c-3572-4b5f-9e22-4498687fad2f",
+      "timestamp": 1772536221091,
+      "target_name": "input_loginCredentials",
+      "target_test_object_id": "0c78a466-5160-4bfa-bbce-cbfa436e34cf",
+      "sub_steps": []
+    },
+    {
+      "id": "5de00f9d-2622-46f0-8b3d-8f9200d9695c",
+      "name": "Click on button login -> Navigate to page '/admin/dashboard'",
+      "action_id": "652619a5-1040-41fa-aea3-4ef1751886e5",
+      "timestamp": 1772536223428,
+      "target_name": "button_login",
+      "target_test_object_id": "951ddb5c-7e27-40fb-b12f-82734ec9f65b",
+      "sub_steps": []
+    },
+    {
+      "id": "60982be6-d7ca-4b48-8a5f-f7413e1bbe9b",
+      "name": "Click on button employees -> Navigate to page '/admin/employees'",
+      "action_id": "8a51465f-2e20-4ba9-ab44-692060bf2c47",
+      "timestamp": 1772536227571,
+      "target_name": "button_employees",
+      "target_test_object_id": "7dc4f180-499f-4945-a0ae-e7826e6d5a46",
+      "sub_steps": []
+    },
+    {
+      "id": "51054c14-114f-48f5-80a6-7787262b5a6a",
+      "name": "Click on span icon",
+      "action_id": "faea3239-aee1-4650-b924-66a3e23c8201",
+      "timestamp": 1772536229047,
+      "target_name": "span_icon",
+      "target_test_object_id": "f19ecabf-72ac-4730-b272-0b8ad4c59bf3",
+      "sub_steps": []
+    },
+    {
+      "id": "2db4721c-9294-465d-bb13-6e54fc52c756",
+      "name": "Click on input loginCredentials (usernameLoginId)",
+      "action_id": "64f60d0d-b1bc-479f-b823-83686db4a86c",
+      "timestamp": 1772536231823,
+      "target_name": "input_loginCredentials",
+      "target_test_object_id": "15ae13c6-7e80-4227-be3e-f304510ca1cf",
+      "sub_steps": []
+    },
+    {
+      "id": "286a5650-ae28-4762-a06a-79f03c2a72cf",
+      "name": "Enter input value in input loginCredentials (usernameLoginId)",
+      "action_id": "cfad171f-002b-4fa6-b628-008c60f9ddf7",
+      "timestamp": 1772536234111,
+      "target_name": "input_loginCredentials",
+      "target_test_object_id": "15ae13c6-7e80-4227-be3e-f304510ca1cf",
+      "sub_steps": []
+    },
+    {
+      "id": "3ea44a82-cbfd-4d42-bd2f-69736b32ded8",
+      "name": "Click on input loginCredentials (password)",
+      "action_id": "adfd1f9d-a7df-415c-97c2-72a1765a2088",
+      "timestamp": 1772536259718,
+      "target_name": "input_loginCredentials",
+      "target_test_object_id": "0f3cf6d1-2601-467f-95ca-dd6bc06475dc",
+      "sub_steps": []
+    },
+    {
+      "id": "346d670b-9006-46ce-9949-43d188dfada8",
+      "name": "Enter input value in input loginCredentials (password)",
+      "action_id": "a3ba9cb4-e26c-45bd-b633-7164443cb3ad",
+      "timestamp": 1772536261770,
+      "target_name": "input_loginCredentials",
+      "target_test_object_id": "0f3cf6d1-2601-467f-95ca-dd6bc06475dc",
+      "sub_steps": []
+    },
+    {
+      "id": "ce677c71-328c-42e2-8763-c670003aed8c",
+      "name": "Click on button saveEmployee",
+      "action_id": "d7deaa62-d024-42a2-b6f3-2faff65e6850",
+      "timestamp": 1772536267712,
+      "target_name": "button_saveEmployee",
+      "target_test_object_id": "26e43fc7-1b81-4f05-8798-5c88e75e08f9",
+      "sub_steps": []
+    },
+    {
+      "id": "375f2875-8bd2-4b5a-966b-70a267a40432",
+      "name": "Click on button logout -> Navigate to page ''",
+      "action_id": "be2c3762-3d3b-45d9-ade6-e5566af34af6",
+      "timestamp": 1772536272211,
+      "target_name": "button_logout",
+      "target_test_object_id": "975f6cf1-862d-4688-b652-7839d077efe8",
+      "sub_steps": []
+    },
+    {
+      "id": "8870c4ab-a3ff-4be9-8d67-0d436822d5a9",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
