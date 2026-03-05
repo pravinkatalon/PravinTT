@@ -21,7 +21,7 @@
             <value>internal:label=\"Logout\"s</value>
         </entry>
     </smartLocatorCollection>
-    <smartLocatorEnabled>true</smartLocatorEnabled>
+    <smartLocatorEnabled>false</smartLocatorEnabled>
     <tag></tag>
     <useRalativeImagePath>false</useRalativeImagePath>
     <webElementProperties>
@@ -30,6 +30,6 @@
         <name>class</name>
         <type>Main</type>
         <value>h-5 w-5</value>
-        <webElementGuid>9a7e84fc-09a0-4c57-b73d-56a8edc349fd</webElementGuid>
+        <webElementGuid>69de07fb-14b4-49ed-8bbb-36d9a0a47be4</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

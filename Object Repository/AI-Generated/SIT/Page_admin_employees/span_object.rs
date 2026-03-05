@@ -21,7 +21,7 @@
             <value>div &gt; .flex &gt; .btn</value>
         </entry>
     </smartLocatorCollection>
-    <smartLocatorEnabled>true</smartLocatorEnabled>
+    <smartLocatorEnabled>false</smartLocatorEnabled>
     <tag></tag>
     <useRalativeImagePath>false</useRalativeImagePath>
     <webElementProperties>
@@ -30,6 +30,6 @@
         <name>class</name>
         <type>Main</type>
         <value>w-5 h-5</value>
-        <webElementGuid>caa493cf-237a-4cb2-856b-4df5dd7a5bd7</webElementGuid>
+        <webElementGuid>69de07fb-14b4-49ed-8bbb-36d9a0a47be4</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

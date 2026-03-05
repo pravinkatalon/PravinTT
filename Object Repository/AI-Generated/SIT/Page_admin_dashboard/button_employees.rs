@@ -25,7 +25,7 @@
             <value>button &gt;&gt; internal:has-text=/^Employees$/</value>
         </entry>
     </smartLocatorCollection>
-    <smartLocatorEnabled>true</smartLocatorEnabled>
+    <smartLocatorEnabled>false</smartLocatorEnabled>
     <tag></tag>
     <useRalativeImagePath>false</useRalativeImagePath>
     <webElementProperties>
@@ -34,7 +34,7 @@
         <name>class</name>
         <type>Main</type>
         <value>flex w-full items-center gap-3 rounded-lg px-3 py-2 text-left text-sm font-medium transition hover:bg-base-200 text-[var(--accent-color)]</value>
-        <webElementGuid>9a7e84fc-09a0-4c57-b73d-56a8edc349fd</webElementGuid>
+        <webElementGuid>69de07fb-14b4-49ed-8bbb-36d9a0a47be4</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Employees</value>
-        <webElementGuid>9a7e84fc-09a0-4c57-b73d-56a8edc349fd</webElementGuid>
+        <webElementGuid>69de07fb-14b4-49ed-8bbb-36d9a0a47be4</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>9a7e84fc-09a0-4c57-b73d-56a8edc349fd</webElementGuid>
+        <webElementGuid>69de07fb-14b4-49ed-8bbb-36d9a0a47be4</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

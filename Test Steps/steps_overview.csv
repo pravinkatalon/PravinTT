@@ -1,17 +1,15 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-2,Login and Edit Employee,,"Step 1: Navigate to /
-Step 2: Click on input loginCredentials (username)
-Step 3: Enter input value in input loginCredentials (username)
-Step 4: Click on input loginCredentials (password)
-Step 5: Enter input value in input loginCredentials (password)
+3,Login and Edit,,"Step 1: Navigate to /
+Step 2: Click on input credentials (username)
+Step 3: Enter input value in input credentials (username)
+Step 4: Click on input credentials (password)
+Step 5: Enter input value in input credentials (password)
 Step 6: Click on button login -> Navigate to page '/admin/dashboard'
 Step 7: Click on button employees -> Navigate to page '/admin/employees'
-Step 8: Click on span object
-Step 9: Click on input loginCredentials (usernameLoginId)
-Step 10: Enter input value in input loginCredentials (usernameLoginId)
-Step 11: Click on input loginCredentials (password)
-Step 12: Enter input value in input loginCredentials (password)
-Step 13: Click on button saveEmployee
-Step 14: Click on button logout -> Navigate to page ''
-Step 15: Take full page screenshot as checkpoint
+Step 8: Click on button holidays -> Navigate to page '/admin/holidays'
+Step 9: Click on button employees -> Navigate to page '/admin/employees'
+Step 10: Click on span icon
+Step 11: Click on button saveEmployee
+Step 12: Click on button logout -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
 ",Trivial,NEW

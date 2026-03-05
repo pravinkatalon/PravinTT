@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>553b4c40-79fb-41a2-9a8f-d778d48f00f3</id>
+        </flow>
+    </customField>
+    <description></description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "Manual Session", "assignee": "pravin.raveendran@katalon.com", "linkedTestCaseIds": [15073824]}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>Login and Edit</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>6059483d-dd32-424f-9f22-735d776a0198</testCaseGuid>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 3: Enter input value in input credentials (username) - (Input data variable)</description>
+        <id>7f076675-793c-451a-a4e3-c1421a60b8d9</id>
+        <masked>false</masked>
+        <name>input_credentials</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 5: Enter input value in input credentials (password) - (Input data variable)</description>
+        <id>dec00f4d-17c7-4257-be5d-9b947d7b5052</id>
+        <masked>false</masked>
+        <name>input_credentials_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Username'</defaultValue>
+        <description>Step 2: Click on input credentials (username) - (Dynamic locator variable)</description>
+        <id>c8092f85-1737-41bc-a963-12d6403ced82</id>
+        <masked>false</masked>
+        <name>input_credentials_InternalLabel</name>
+    </variable>
+    <variable>
+        <defaultValue>'Username'</defaultValue>
+        <description>Step 3: Enter input value in input credentials (username) - (Dynamic locator variable)</description>
+        <id>e86f9b94-4c25-44aa-aff4-a0323effeb45</id>
+        <masked>false</masked>
+        <name>input_credentials_InternalLabel_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Password'</defaultValue>
+        <description>Step 4: Click on input credentials (password) - (Dynamic locator variable)</description>
+        <id>2059e627-e487-41f5-bfd1-d3843c80c173</id>
+        <masked>false</masked>
+        <name>input_credentials_InternalLabel_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'Password'</defaultValue>
+        <description>Step 5: Enter input value in input credentials (password) - (Dynamic locator variable)</description>
+        <id>2281b2ce-8cd0-480c-ac9c-4df23251833d</id>
+        <masked>false</masked>
+        <name>input_credentials_InternalLabel_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_0_\\"]'</defaultValue>
+        <description>Step 2: Click on input credentials (username) - (Dynamic locator variable)</description>
+        <id>c1c319f7-fb43-4069-be07-78c759771e33</id>
+        <masked>false</masked>
+        <name>input_credentials_css_value</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_0_\\"]'</defaultValue>
+        <description>Step 3: Enter input value in input credentials (username) - (Dynamic locator variable)</description>
+        <id>e7b5f4ef-7cef-4bff-9737-168c5f1da2c7</id>
+        <masked>false</masked>
+        <name>input_credentials_css_value_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_1_\\"]'</defaultValue>
+        <description>Step 4: Click on input credentials (password) - (Dynamic locator variable)</description>
+        <id>39e9ecb2-4e9c-40a2-847f-7f85195d48b4</id>
+        <masked>false</masked>
+        <name>input_credentials_css_value_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"_r_1_\\"]'</defaultValue>
+        <description>Step 5: Enter input value in input credentials (password) - (Dynamic locator variable)</description>
+        <id>2801c628-b727-40c9-864d-f6baac48d14a</id>
+        <masked>false</masked>
+        <name>input_credentials_css_value_3</name>
+    </variable>
+</TestCaseEntity>
