@@ -1,4 +1,4 @@
-package truetest.SIT.custom
+package truetest.Dev.custom
 
 import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.testobject.TestObject

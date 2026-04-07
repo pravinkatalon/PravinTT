@@ -1,0 +1,64 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "f2509c4a-45b6-4da7-af38-0dd9499891b4",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "ea8d4e69-ccdb-4644-bdc5-973ed06eafe5",
+      "name": "Click on input username",
+      "action_id": "75c2e765-69c5-4369-95ac-663b3eb91ced",
+      "timestamp": 1771957988980,
+      "target_name": "input_username",
+      "target_test_object_id": "2e00dac3-c96c-421a-ac35-5eb68638b981",
+      "sub_steps": []
+    },
+    {
+      "id": "af8da1a4-12fe-4d27-ab0f-70f5b1118140",
+      "name": "Enter input value in input username",
+      "action_id": "c085250a-b8c5-465c-b9dc-b4d154300307",
+      "timestamp": 1771957989114,
+      "target_name": "input_username",
+      "target_test_object_id": "2e00dac3-c96c-421a-ac35-5eb68638b981",
+      "sub_steps": []
+    },
+    {
+      "id": "b57ac49a-fc5a-4685-a068-eb3bba5fcd8c",
+      "name": "Click on input password",
+      "action_id": "9153d3e6-97aa-4972-b469-01ee4bf9b44a",
+      "timestamp": 1771957991799,
+      "target_name": "input_password",
+      "target_test_object_id": "76f01896-bf50-4fa8-b692-93f45282985e",
+      "sub_steps": []
+    },
+    {
+      "id": "40e14d5b-cdb8-4609-9ce3-628c400adf19",
+      "name": "Enter input value in input password",
+      "action_id": "fafb9d9b-244b-4cb7-97a0-f4009daf5387",
+      "timestamp": 1771957991918,
+      "target_name": "input_password",
+      "target_test_object_id": "76f01896-bf50-4fa8-b692-93f45282985e",
+      "sub_steps": []
+    },
+    {
+      "id": "4b7a5e44-e6a2-4669-abb0-597533b8526e",
+      "name": "Click on button login -> Navigate to page ''",
+      "action_id": "a2dd1c79-1f93-4b6b-93c1-3fb157f4b983",
+      "timestamp": 1771957994534,
+      "target_name": "button_login",
+      "target_test_object_id": "951ddb5c-7e27-40fb-b12f-82734ec9f65b",
+      "sub_steps": []
+    },
+    {
+      "id": "dac639f6-d928-4c60-8e95-fd6602de0b5f",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
