@@ -1,0 +1,100 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "39cb8a97-1692-41c8-a1d7-6988fabe2644",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "fb06f593-785b-410c-96b8-07440a50be05",
+      "name": "Click on div loginForm",
+      "action_id": "159551fa-0d71-4cac-87d7-934b1182a9c8",
+      "timestamp": 1772024636219,
+      "target_name": "div_loginForm",
+      "target_test_object_id": "150cbf7e-06a7-4138-992d-2f97a24c5f6c",
+      "sub_steps": []
+    },
+    {
+      "id": "fe8acac8-397d-4833-831d-b119a251888c",
+      "name": "Click on input username",
+      "action_id": "5959cb14-0a38-4bde-88e0-1c22f0868f20",
+      "timestamp": 1772024636707,
+      "target_name": "input_username",
+      "target_test_object_id": "2e00dac3-c96c-421a-ac35-5eb68638b981",
+      "sub_steps": []
+    },
+    {
+      "id": "9a26c489-650b-4958-97be-16b75c1de5c6",
+      "name": "Enter input value in input username",
+      "action_id": "35e349f3-21ce-4846-aba5-0f3a99b32d2a",
+      "timestamp": 1772024637671,
+      "target_name": "input_username",
+      "target_test_object_id": "2e00dac3-c96c-421a-ac35-5eb68638b981",
+      "sub_steps": []
+    },
+    {
+      "id": "f70bbb12-97e4-481f-97c1-1e2c8c5b868c",
+      "name": "Click on input password",
+      "action_id": "7020dcb5-4003-40a0-acbe-39100f57b084",
+      "timestamp": 1772024639959,
+      "target_name": "input_password",
+      "target_test_object_id": "76f01896-bf50-4fa8-b692-93f45282985e",
+      "sub_steps": []
+    },
+    {
+      "id": "ad5876f6-af16-42f4-ab61-f0d9c515d057",
+      "name": "Enter input value in input password",
+      "action_id": "8169beec-a589-4d2e-882c-6aed26511fa3",
+      "timestamp": 1772024640250,
+      "target_name": "input_password",
+      "target_test_object_id": "76f01896-bf50-4fa8-b692-93f45282985e",
+      "sub_steps": []
+    },
+    {
+      "id": "c7048090-ff58-4e99-8672-66ced6866a8a",
+      "name": "Click on button login -> Navigate to page '/admin/dashboard'",
+      "action_id": "cbd82803-ec60-4273-a746-9d9d3c9f25b1",
+      "timestamp": 1772024642788,
+      "target_name": "button_login",
+      "target_test_object_id": "951ddb5c-7e27-40fb-b12f-82734ec9f65b",
+      "sub_steps": []
+    },
+    {
+      "id": "e6044211-c09f-414d-bbe6-6a1148d191b1",
+      "name": "Click on button employees -> Navigate to page '/admin/employees'",
+      "action_id": "d2af800f-6529-47fc-ae7a-6b4c05da34be",
+      "timestamp": 1772024664594,
+      "target_name": "button_employees",
+      "target_test_object_id": "7dc4f180-499f-4945-a0ae-e7826e6d5a46",
+      "sub_steps": []
+    },
+    {
+      "id": "479b0206-8954-4738-99f2-b4fbf56d9c27",
+      "name": "Click on button holidays -> Navigate to page '/admin/holidays'",
+      "action_id": "7053b4df-433b-4967-bcc0-c3dc354e16e6",
+      "timestamp": 1772024666496,
+      "target_name": "button_holidays",
+      "target_test_object_id": "410f67f3-ebef-45eb-85a7-2908f59b6974",
+      "sub_steps": []
+    },
+    {
+      "id": "a9930017-b387-4a4a-95b9-beea79f02847",
+      "name": "Click on button logout -> Navigate to page ''",
+      "action_id": "afcecf79-a7eb-42fb-b56b-347dbe2fd2d0",
+      "timestamp": 1772024670958,
+      "target_name": "button_logout",
+      "target_test_object_id": "63f232ae-51a2-46c6-8914-9047d71e3a26",
+      "sub_steps": []
+    },
+    {
+      "id": "b03c5bf5-36ee-41a5-b1a2-f62adf51a0b1",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

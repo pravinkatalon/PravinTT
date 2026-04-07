@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login, perform admin actions, logout, and verify successful navigation back to the home page.</description>
+   <name>TC6-Verify Logout Process after Admin Actions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fc77978-ebda-4ffc-b281-fbde5b61f1f1</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 6: Enter input value in input password - (Input data variable)</description>
+      <id>0231ab10-8619-431a-aa66-d15233088d5d</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 4: Enter input value in input username - (Input data variable)</description>
+      <id>745a91cb-49c9-460d-a678-bc7b1bf70560</id>
+      <masked>false</masked>
+      <name>input_username</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>5d0982a1-8143-4aa7-a00f-be145d5aed78</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
