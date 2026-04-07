@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn font-semibold rounded-lg px-4 py-2 w-full border-none</value>
-      <webElementGuid>2039e409-0771-4f94-87b2-00623b19f045</webElementGuid>
+      <webElementGuid>074acba2-7057-407b-9d54-fc9bc23b69d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>2039e409-0771-4f94-87b2-00623b19f045</webElementGuid>
+      <webElementGuid>074acba2-7057-407b-9d54-fc9bc23b69d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +54,6 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2039e409-0771-4f94-87b2-00623b19f045</webElementGuid>
+      <webElementGuid>074acba2-7057-407b-9d54-fc9bc23b69d3</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

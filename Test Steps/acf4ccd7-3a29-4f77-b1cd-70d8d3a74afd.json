@@ -1,0 +1,109 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "049551bd-51b6-44bc-ba49-74046cdea4a3",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "d8936892-8a57-444b-bde7-7796962e948e",
+      "name": "Click on input username",
+      "action_id": "d36ae785-5040-4200-a168-e52cf78b0818",
+      "timestamp": 1772024683057,
+      "target_name": "input_username",
+      "target_test_object_id": "2e00dac3-c96c-421a-ac35-5eb68638b981",
+      "sub_steps": []
+    },
+    {
+      "id": "e0a45e61-6fc0-4a74-88b3-3f7e64331d7b",
+      "name": "Enter input value in input username",
+      "action_id": "dd09b9eb-bccf-451d-8756-44c20f128a81",
+      "timestamp": 1772024684740,
+      "target_name": "input_username",
+      "target_test_object_id": "2e00dac3-c96c-421a-ac35-5eb68638b981",
+      "sub_steps": []
+    },
+    {
+      "id": "6829bc77-c64d-4104-bc8b-2a4c51b178a8",
+      "name": "Click on input password",
+      "action_id": "17550f7e-5046-4f0e-ac87-5d3833e74405",
+      "timestamp": 1772024687794,
+      "target_name": "input_password",
+      "target_test_object_id": "76f01896-bf50-4fa8-b692-93f45282985e",
+      "sub_steps": []
+    },
+    {
+      "id": "6aba49e0-0fba-4ba7-bb15-03fa42f97147",
+      "name": "Enter input value in input password",
+      "action_id": "60dd022b-1d70-4ceb-854d-bff60b925e72",
+      "timestamp": 1772024688607,
+      "target_name": "input_password",
+      "target_test_object_id": "76f01896-bf50-4fa8-b692-93f45282985e",
+      "sub_steps": []
+    },
+    {
+      "id": "c31b5cf1-a6d2-4536-8cbf-64de0c604e57",
+      "name": "Click on button login -> Navigate to page '/manager/dashboard'",
+      "action_id": "3c3958b8-47c0-41e5-aa86-34d826c663c5",
+      "timestamp": 1772024704157,
+      "target_name": "button_login",
+      "target_test_object_id": "951ddb5c-7e27-40fb-b12f-82734ec9f65b",
+      "sub_steps": []
+    },
+    {
+      "id": "686fe0b2-3bf5-4cd2-bebe-9e158e6d7dc7",
+      "name": "Click on button teams -> Navigate to page '/manager/teams'",
+      "action_id": "3e955d3d-204c-417f-960e-8aef70c7e387",
+      "timestamp": 1772024715976,
+      "target_name": "button_teams",
+      "target_test_object_id": "1f2d45bd-5b57-4343-a4e3-1f3f41b47eea",
+      "sub_steps": []
+    },
+    {
+      "id": "c2449fa4-ba73-4b54-8ba6-5935940d8326",
+      "name": "Click on button projects -> Navigate to page '/manager/projects'",
+      "action_id": "0ff47c1f-676d-423c-ab16-2d84756e9740",
+      "timestamp": 1772024717023,
+      "target_name": "button_projects",
+      "target_test_object_id": "24aa4402-bd48-453d-b035-f602fecbef9d",
+      "sub_steps": []
+    },
+    {
+      "id": "5aa93c80-8530-4dea-abc8-54c20a0e46b5",
+      "name": "Click on button timesheets -> Navigate to page '/manager/approvals'",
+      "action_id": "01b2a52b-ad20-45d1-bc3b-fa9121235f78",
+      "timestamp": 1772024717983,
+      "target_name": "button_timesheets",
+      "target_test_object_id": "cdb3beaf-0a96-4761-bcf0-cf34ac486e19",
+      "sub_steps": []
+    },
+    {
+      "id": "fb7902a0-7356-4d26-a728-b542ec38df34",
+      "name": "Click on button delegations -> Navigate to page '/manager/delegations'",
+      "action_id": "2d64f0ff-8e37-4fa5-9020-725a68c199a5",
+      "timestamp": 1772024718822,
+      "target_name": "button_delegations",
+      "target_test_object_id": "e2e5e7c3-0c4d-4d08-bf23-675b0e501afd",
+      "sub_steps": []
+    },
+    {
+      "id": "5795d532-2860-4d4b-9db1-6b61636a5180",
+      "name": "Click on button logout -> Navigate to page ''",
+      "action_id": "0dad85a2-603c-4b5b-bb9d-a7f7ea629dc0",
+      "timestamp": 1772024723879,
+      "target_name": "button_logout",
+      "target_test_object_id": "070b56bc-c40d-4d7e-bc1b-7d334b949a96",
+      "sub_steps": []
+    },
+    {
+      "id": "c448592a-c9f6-4010-8617-6de1577a1952",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the home page, log in with credentials, access various manager sections, and log out. Verify successful return to the home page.</description>
+   <name>TC7-Verify Manager Dashboard Navigation and Logout Process</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40b95285-3c15-4848-a838-353750662140</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 5: Enter input value in input password - (Input data variable)</description>
+      <id>0769dc2b-788b-4e60-801c-fb31e7a557c7</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 3: Enter input value in input username - (Input data variable)</description>
+      <id>f5c60880-580a-43ec-ba26-62d06758b873</id>
+      <masked>false</masked>
+      <name>input_username</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>acf4ccd7-3a29-4f77-b1cd-70d8d3a74afd</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
