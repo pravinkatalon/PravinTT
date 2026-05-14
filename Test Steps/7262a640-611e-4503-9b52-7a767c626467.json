@@ -1,0 +1,199 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "e5fe846b-589c-4a71-bed9-44bfec1dd7c7",
+      "name": "Navigate to https://pohr.vercel.app",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "29713647-92f6-4178-80af-da034589328b",
+      "name": "Click on input credentials (username)",
+      "action_id": "b2d11d4f-ff67-4936-92be-1b4e81e51a5e",
+      "timestamp": 1778735949819,
+      "target_name": "input_credentials",
+      "target_test_object_id": "05571c00-10ac-4c4e-9c25-d4e81eeedfc1",
+      "sub_steps": []
+    },
+    {
+      "id": "15eaad57-a220-4ef3-9ed5-5f4f52104ca6",
+      "name": "Enter input value in input credentials (username)",
+      "action_id": "3acd2131-dd76-42cb-92db-945854ff8087",
+      "timestamp": 1778735950893,
+      "target_name": "input_credentials",
+      "target_test_object_id": "05571c00-10ac-4c4e-9c25-d4e81eeedfc1",
+      "sub_steps": []
+    },
+    {
+      "id": "5353a2c0-2275-4081-b80f-5bc51d8fc83d",
+      "name": "Click on input credentials (password)",
+      "action_id": "2e7fee9a-cf92-4380-be55-a5fb80573423",
+      "timestamp": 1778735953592,
+      "target_name": "input_credentials",
+      "target_test_object_id": "95d25687-50e2-40d8-9e02-66cff33d0d36",
+      "sub_steps": []
+    },
+    {
+      "id": "c4d2d4a7-09dd-4f5f-97bf-14dbfa4a50e8",
+      "name": "Enter input value in input credentials (password)",
+      "action_id": "bb33d571-5e8d-404c-bbdb-3da838920d21",
+      "timestamp": 1778735953982,
+      "target_name": "input_credentials",
+      "target_test_object_id": "95d25687-50e2-40d8-9e02-66cff33d0d36",
+      "sub_steps": []
+    },
+    {
+      "id": "4d28df44-c432-4ff1-873b-c2775c0cdc68",
+      "name": "Click on button login -> Navigate to page '/admin/dashboard'",
+      "action_id": "406818e4-7801-4322-85f0-b485f693a5f5",
+      "timestamp": 1778735956779,
+      "target_name": "button_login",
+      "target_test_object_id": "e5a17c8d-f103-449e-be50-91f6e9646b53",
+      "sub_steps": []
+    },
+    {
+      "id": "b9db55a0-b918-45e3-9c25-0dbca6e42a8d",
+      "name": "Click on button employees -> Navigate to page '/admin/employees'",
+      "action_id": "478489e9-427e-4d1d-971a-1f855ab6eb09",
+      "timestamp": 1778735966083,
+      "target_name": "button_employees",
+      "target_test_object_id": "4a356ccd-3a32-4e6c-8259-866946d80982",
+      "sub_steps": []
+    },
+    {
+      "id": "7dd6cb76-1acb-42df-9615-44a2c0e317db",
+      "name": "Click on button holidays -> Navigate to page '/admin/holidays'",
+      "action_id": "9bbe73a7-6c5b-4704-8120-d2e5dbb7ef90",
+      "timestamp": 1778735967381,
+      "target_name": "button_holidays",
+      "target_test_object_id": "890d1df0-ff69-45e7-9e02-cc34cd43e278",
+      "sub_steps": []
+    },
+    {
+      "id": "7d0b8b6e-aefe-4c65-a92c-93316ef334da",
+      "name": "Click on span icon",
+      "action_id": "450ae26b-e84a-478c-bb47-9f478c2ca4e6",
+      "timestamp": 1778735971679,
+      "target_name": "span_icon",
+      "target_test_object_id": "8903b5d4-b86d-45ff-b8cf-dd55c7a02fbf",
+      "sub_steps": []
+    },
+    {
+      "id": "d3bf2424-e255-4fbd-bff6-77dc3a65ce1c",
+      "name": "Click on input holidayName",
+      "action_id": "721f57f3-1fc6-4a44-8af3-8c4dbbf63ad8",
+      "timestamp": 1778735974251,
+      "target_name": "input_holidayName",
+      "target_test_object_id": "63e3beba-63f9-48d3-9a3e-07619010e474",
+      "sub_steps": []
+    },
+    {
+      "id": "fec6e696-211a-4fad-8198-d3d2c2d23b6d",
+      "name": "Enter input value in input holidayName",
+      "action_id": "9483ed66-096e-4d76-82a5-0fef3f0c4c99",
+      "timestamp": 1778735975249,
+      "target_name": "input_holidayName",
+      "target_test_object_id": "63e3beba-63f9-48d3-9a3e-07619010e474",
+      "sub_steps": []
+    },
+    {
+      "id": "953627ff-401d-477d-8ac7-fc7161daef28",
+      "name": "Click on input date",
+      "action_id": "273b6b8a-5cf5-46cb-9612-2e91b863981c",
+      "timestamp": 1778735980306,
+      "target_name": "input_date",
+      "target_test_object_id": "d5ba0adf-a39a-45eb-8522-17c0a14a1c0d",
+      "sub_steps": []
+    },
+    {
+      "id": "0c98a63e-a617-4070-b45e-8836d01401ab",
+      "name": "Click on button adminActions (play)",
+      "action_id": "2448db24-c827-4654-a5cc-52ab660c76cd",
+      "timestamp": 1778735984429,
+      "target_name": "button_adminActions",
+      "target_test_object_id": "6a48c465-334c-4fe9-846c-b1e18845df0d",
+      "sub_steps": []
+    },
+    {
+      "id": "022d2ac3-6839-4bec-bdd8-1941c144a303",
+      "name": "Click on button adminActions (play)",
+      "action_id": "8114746e-b318-439a-80dd-856f6cc36a08",
+      "timestamp": 1778735985241,
+      "target_name": "button_adminActions",
+      "target_test_object_id": "6a48c465-334c-4fe9-846c-b1e18845df0d",
+      "sub_steps": []
+    },
+    {
+      "id": "8309e24a-08c0-4f73-b4fe-d3e803768eb8",
+      "name": "Double-click on button adminActions (play)",
+      "action_id": "7504eca3-8143-43e6-bcfb-f0b9f43afa0a",
+      "timestamp": 1778735986205,
+      "target_name": "button_adminActions",
+      "target_test_object_id": "6a48c465-334c-4fe9-846c-b1e18845df0d",
+      "sub_steps": []
+    },
+    {
+      "id": "bde15491-de89-48bb-87c3-e502296b6dc2",
+      "name": "Double-click on button adminActions (play)",
+      "action_id": "cc567f11-0f35-4b73-b7f1-61fcff9bced9",
+      "timestamp": 1778735986993,
+      "target_name": "button_adminActions",
+      "target_test_object_id": "6a48c465-334c-4fe9-846c-b1e18845df0d",
+      "sub_steps": []
+    },
+    {
+      "id": "ae41293a-c57a-4923-9223-7f497beafda3",
+      "name": "Click on button adminActions (play)",
+      "action_id": "7c68f313-8ffe-4698-ac7b-799d3a04cfcb",
+      "timestamp": 1778735987420,
+      "target_name": "button_adminActions",
+      "target_test_object_id": "6a48c465-334c-4fe9-846c-b1e18845df0d",
+      "sub_steps": []
+    },
+    {
+      "id": "25e03c34-a6a1-4841-9649-ba6c3ffaa285",
+      "name": "Click on button adminActions (play)",
+      "action_id": "8e019322-fd32-4b6a-a9d0-e074c3e9bc3c",
+      "timestamp": 1778735988209,
+      "target_name": "button_adminActions",
+      "target_test_object_id": "6a48c465-334c-4fe9-846c-b1e18845df0d",
+      "sub_steps": []
+    },
+    {
+      "id": "6e594a17-25da-4ff9-a2ec-065a424f5c30",
+      "name": "Click on button adminActions (number)",
+      "action_id": "c25ae5cf-4589-4ab7-8d71-839e9cf8fc34",
+      "timestamp": 1778735989377,
+      "target_name": "button_adminActions",
+      "target_test_object_id": "3dfe457f-cc52-401d-9c89-dd9d0414bed1",
+      "sub_steps": []
+    },
+    {
+      "id": "006b44f1-b63d-485f-8212-74684a495438",
+      "name": "Click on button addHoliday",
+      "action_id": "a51901b6-248c-4094-8921-4a1fb56805d9",
+      "timestamp": 1778735990669,
+      "target_name": "button_addHoliday",
+      "target_test_object_id": "f61b518e-c8ca-4651-a18e-1ad6dc075e32",
+      "sub_steps": []
+    },
+    {
+      "id": "80fbbaeb-86f7-402c-9872-c7d8269417c5",
+      "name": "Acknowledge alert dialog",
+      "action_id": "dae1a9a7-1cbb-42dd-999d-4a47e65d98c3",
+      "timestamp": 1778735992520,
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "6b4a8ef7-b9f5-4bc6-bc18-86bd4f6b9037",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

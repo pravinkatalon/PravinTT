@@ -1,65 +1,24 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-3,Verify Successful Login with Valid Credentials,"Navigate to the home page, enter valid username and password, click login, and verify successful navigation to the home page.","Step 1: Navigate to /
-Step 2: Click on input username
-Step 3: Enter input value in input username
-Step 4: Click on input password
-Step 5: Enter input value in input password
-Step 6: Click on button login -> Navigate to page ''
-Step 7: Take full page screenshot as checkpoint
-",High,NEW
-6,Verify Logout Process after Admin Actions,"Login, perform admin actions, logout, and verify successful navigation back to the home page.","Step 1: Navigate to /
-Step 2: Click on div loginForm
-Step 3: Click on input username
-Step 4: Enter input value in input username
-Step 5: Click on input password
-Step 6: Enter input value in input password
-Step 7: Click on button login -> Navigate to page '/admin/dashboard'
-Step 8: Click on button employees -> Navigate to page '/admin/employees'
-Step 9: Click on button holidays -> Navigate to page '/admin/holidays'
-Step 10: Click on button logout -> Navigate to page ''
-Step 11: Take full page screenshot as checkpoint
-",Medium,NEW
-7,Verify Manager Dashboard Navigation and Logout Process,"Navigate to the home page, log in with credentials, access various manager sections, and log out. Verify successful return to the home page.","Step 1: Navigate to /
-Step 2: Click on input username
-Step 3: Enter input value in input username
-Step 4: Click on input password
-Step 5: Enter input value in input password
-Step 6: Click on button login -> Navigate to page '/manager/dashboard'
-Step 7: Click on button teams -> Navigate to page '/manager/teams'
-Step 8: Click on button projects -> Navigate to page '/manager/projects'
-Step 9: Click on button timesheets -> Navigate to page '/manager/approvals'
-Step 10: Click on button delegations -> Navigate to page '/manager/delegations'
-Step 11: Click on button logout -> Navigate to page ''
-Step 12: Take full page screenshot as checkpoint
-",Medium,NEW
-5,Verify Dashboard Navigation after Login,"Login with valid credentials, navigate through the dashboard multiple times, and verify successful return to the home page.","Step 1: Navigate to /
-Step 2: Click on input username
-Step 3: Enter input value in input username
-Step 4: Press key Tab on input username
-Step 5: Enter input value in input password
+5,Login and Delete All,,"Step 1: Navigate to https://pohr.vercel.app
+Step 2: Click on input credentials (username)
+Step 3: Enter input value in input credentials (username)
+Step 4: Click on input credentials (password)
+Step 5: Enter input value in input credentials (password)
 Step 6: Click on button login -> Navigate to page '/admin/dashboard'
-Step 7: Click on div dashboard
-Step 8: Click on div dashboard
-Step 9: Click on div dashboard
-Step 10: Click on div dashboard
-Step 11: Click on div dashboard
-Step 12: Click on div dashboard
-Step 13: Click on div dashboard
-Step 14: Click on div dashboard
-Step 15: Click on div dashboard -> Navigate to page ''
-Step 16: Take full page screenshot as checkpoint
-",Low,NEW
-4,Verify Login with Password Visibility Toggle,"Navigate to the home page, enter credentials, toggle password visibility multiple times, and verify successful login to the home page.","Step 1: Navigate to /
-Step 2: Click on input username
-Step 3: Enter input value in input username
-Step 4: Click on input password
-Step 5: Enter input value in input password
-Step 6: Click on button login
-Step 7: Click on button passwordVisibilityToggle (showPassword)
-Step 8: Click on button passwordVisibilityToggle (hidePassword)
-Step 9: Click on div homeContainer
-Step 10: Click on button login
-Step 11: Click on button login
-Step 12: Click on button login -> Navigate to page ''
-Step 13: Take full page screenshot as checkpoint
+Step 7: Click on button employees -> Navigate to page '/admin/employees'
+Step 8: Click on button holidays -> Navigate to page '/admin/holidays'
+Step 9: Click on span icon
+Step 10: Click on input holidayName
+Step 11: Enter input value in input holidayName
+Step 12: Click on input date
+Step 13: Click on button adminActions (play)
+Step 14: Click on button adminActions (play)
+Step 15: Double-click on button adminActions (play)
+Step 16: Double-click on button adminActions (play)
+Step 17: Click on button adminActions (play)
+Step 18: Click on button adminActions (play)
+Step 19: Click on button adminActions (number)
+Step 20: Click on button addHoliday
+Step 21: Acknowledge alert dialog
+Step 22: Take full page screenshot as checkpoint
 ",Trivial,NEW

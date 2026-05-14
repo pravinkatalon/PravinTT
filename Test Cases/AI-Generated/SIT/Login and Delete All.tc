@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login and Delete All</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2ab230f-f8b0-43a7-8bdd-78cb01d840ac</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;Manual Session&quot;, &quot;assignee&quot;: &quot;pravin.raveendran@katalon.com&quot;, &quot;linkedTestCaseIds&quot;: [15719938]}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>TRUETEST</productName>
+      <properties>
+         <entry>
+            <key>flowId</key>
+            <value>7262a640-611e-4503-9b52-7a767c626467</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>'\\u25b6'</defaultValue>
+      <description>Step 13: Click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>b29651f7-fa56-4564-8b3b-56bf7835f609</id>
+      <masked>false</masked>
+      <name>button_adminActions_InternalRoleButtonName</name>
+   </variable>
+   <variable>
+      <defaultValue>'\\u25b6'</defaultValue>
+      <description>Step 14: Click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>d851c980-094c-4fae-91b7-4bcc7980774c</id>
+      <masked>false</masked>
+      <name>button_adminActions_InternalRoleButtonName_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'\\u25b6'</defaultValue>
+      <description>Step 15: Double-click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>b36ecd67-e54d-4987-bc93-78122a20cba1</id>
+      <masked>false</masked>
+      <name>button_adminActions_InternalRoleButtonName_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'\\u25b6'</defaultValue>
+      <description>Step 16: Double-click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>b4672d9f-3c52-4c3c-9308-5c104c20efac</id>
+      <masked>false</masked>
+      <name>button_adminActions_InternalRoleButtonName_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'\\u25b6'</defaultValue>
+      <description>Step 17: Click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>2c984517-a88c-4ae4-af69-44f6038f5700</id>
+      <masked>false</masked>
+      <name>button_adminActions_InternalRoleButtonName_4</name>
+   </variable>
+   <variable>
+      <defaultValue>'\\u25b6'</defaultValue>
+      <description>Step 18: Click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>3dedba9a-9df1-408a-8efa-9f1f10a00156</id>
+      <masked>false</masked>
+      <name>button_adminActions_InternalRoleButtonName_5</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description>Step 19: Click on button adminActions (number) - (Dynamic locator variable)</description>
+      <id>e253841b-94d8-4e0b-95cd-6634a22491bf</id>
+      <masked>false</masked>
+      <name>button_adminActions_InternalRoleButtonName_6</name>
+   </variable>
+   <variable>
+      <defaultValue>'.justify-between > button:nth-of-type(2)'</defaultValue>
+      <description>Step 13: Click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>6f277739-bb84-4f65-a4e6-812ea2686d2e</id>
+      <masked>false</masked>
+      <name>button_adminActions_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'.justify-between > button:nth-of-type(2)'</defaultValue>
+      <description>Step 14: Click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>272e1d49-6324-4895-a07c-981dcfc4d84e</id>
+      <masked>false</masked>
+      <name>button_adminActions_css_value_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'.justify-between > button:nth-of-type(2)'</defaultValue>
+      <description>Step 15: Double-click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>e0d792a9-524b-41f3-8553-02b091fc62bc</id>
+      <masked>false</masked>
+      <name>button_adminActions_css_value_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'.justify-between > button:nth-of-type(2)'</defaultValue>
+      <description>Step 16: Double-click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>6bfd3752-02f2-4e5a-b793-cb3db9be1ef1</id>
+      <masked>false</masked>
+      <name>button_adminActions_css_value_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'.justify-between > button:nth-of-type(2)'</defaultValue>
+      <description>Step 17: Click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>edf41f06-1575-428d-9cbd-973a70a3efee</id>
+      <masked>false</masked>
+      <name>button_adminActions_css_value_4</name>
+   </variable>
+   <variable>
+      <defaultValue>'.justify-between > button:nth-of-type(2)'</defaultValue>
+      <description>Step 18: Click on button adminActions (play) - (Dynamic locator variable)</description>
+      <id>a93e0e60-3ee8-41ee-9214-7ae09c3d8b47</id>
+      <masked>false</masked>
+      <name>button_adminActions_css_value_5</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\&quot;bg-base-100\\\\ shadow-xl\\\\ rounded-xl\\\\ p-3\\\\ w-\\\\[300px\\\\]\&quot;] > div:nth-of-type(3) > button:nth-of-type(1)'</defaultValue>
+      <description>Step 19: Click on button adminActions (number) - (Dynamic locator variable)</description>
+      <id>79caab2f-c6ad-4b89-9461-0d0a5df7d175</id>
+      <masked>false</masked>
+      <name>button_adminActions_css_value_6</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description>Step 3: Enter input value in input credentials (username) - (Input data variable)</description>
+      <id>5d26a556-1b77-41f7-8b90-1b02b9f87a63</id>
+      <masked>false</masked>
+      <name>input_credentials</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 5: Enter input value in input credentials (password) - (Input data variable)</description>
+      <id>698e0391-8ce8-4330-9f11-c8e0da9ac74e</id>
+      <masked>false</masked>
+      <name>input_credentials_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Username'</defaultValue>
+      <description>Step 2: Click on input credentials (username) - (Dynamic locator variable)</description>
+      <id>de7bf5fd-5fc1-4f3c-bf10-c8f6fc9d467e</id>
+      <masked>false</masked>
+      <name>input_credentials_InternalLabel</name>
+   </variable>
+   <variable>
+      <defaultValue>'Username'</defaultValue>
+      <description>Step 3: Enter input value in input credentials (username) - (Dynamic locator variable)</description>
+      <id>c6aca7d3-6ef5-4b27-b903-9d3d230fd04b</id>
+      <masked>false</masked>
+      <name>input_credentials_InternalLabel_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password'</defaultValue>
+      <description>Step 4: Click on input credentials (password) - (Dynamic locator variable)</description>
+      <id>92cdd5fe-9a04-482c-bb3c-e21cb149ae3a</id>
+      <masked>false</masked>
+      <name>input_credentials_InternalLabel_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password'</defaultValue>
+      <description>Step 5: Enter input value in input credentials (password) - (Dynamic locator variable)</description>
+      <id>12b948a7-9a04-4832-82e4-7be5ff9d2b65</id>
+      <masked>false</masked>
+      <name>input_credentials_InternalLabel_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;_r_0_\&quot;]'</defaultValue>
+      <description>Step 2: Click on input credentials (username) - (Dynamic locator variable)</description>
+      <id>9e41b6ab-4cdb-437c-9d87-2eb2e23a2368</id>
+      <masked>false</masked>
+      <name>input_credentials_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;_r_0_\&quot;]'</defaultValue>
+      <description>Step 3: Enter input value in input credentials (username) - (Dynamic locator variable)</description>
+      <id>f2effd58-97d3-4857-844c-10559656eb94</id>
+      <masked>false</masked>
+      <name>input_credentials_css_value_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;_r_1_\&quot;]'</defaultValue>
+      <description>Step 4: Click on input credentials (password) - (Dynamic locator variable)</description>
+      <id>08bf2480-54ac-4cda-89f4-1febccbb6575</id>
+      <masked>false</masked>
+      <name>input_credentials_css_value_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;_r_1_\&quot;]'</defaultValue>
+      <description>Step 5: Enter input value in input credentials (password) - (Dynamic locator variable)</description>
+      <id>982be580-ad6f-41ac-b381-c62e92e27416</id>
+      <masked>false</masked>
+      <name>input_credentials_css_value_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'New year'</defaultValue>
+      <description>Step 11: Enter input value in input holidayName - (Input data variable)</description>
+      <id>75cdce8e-a6b6-4c79-a825-a7591a444ac1</id>
+      <masked>false</masked>
+      <name>input_holidayName</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>7262a640-611e-4503-9b52-7a767c626467</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
