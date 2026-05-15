@@ -1,24 +1,22 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-5,Login and Delete All,,"Step 1: Navigate to https://pohr.vercel.app
+6,Searching Employee,,"Step 1: Navigate to https://pohr.vercel.app
 Step 2: Click on input credentials (username)
 Step 3: Enter input value in input credentials (username)
 Step 4: Click on input credentials (password)
 Step 5: Enter input value in input credentials (password)
 Step 6: Click on button login -> Navigate to page '/admin/dashboard'
 Step 7: Click on button employees -> Navigate to page '/admin/employees'
-Step 8: Click on button holidays -> Navigate to page '/admin/holidays'
-Step 9: Click on span icon
-Step 10: Click on input holidayName
-Step 11: Enter input value in input holidayName
-Step 12: Click on input date
-Step 13: Click on button adminActions (play)
-Step 14: Click on button adminActions (play)
-Step 15: Double-click on button adminActions (play)
-Step 16: Double-click on button adminActions (play)
-Step 17: Click on button adminActions (play)
-Step 18: Click on button adminActions (play)
-Step 19: Click on button adminActions (number)
-Step 20: Click on button addHoliday
-Step 21: Acknowledge alert dialog
-Step 22: Take full page screenshot as checkpoint
+Step 8: Click on span icon
+Step 9: Click on input search
+Step 10: Enter input value in input search
+Step 11: Click on span icon2
+Step 12: Click on button noManager
+Step 13: Click on span managerName
+Step 14: Click on button employeeActions (updateEmployee)
+Step 15: Acknowledge alert dialog
+Step 16: Click on button employeeActions (updateEmployee)
+Step 17: Acknowledge alert dialog
+Step 18: Click on button employeeActions (cancel)
+Step 19: Click on button dashboard -> Navigate to page ''
+Step 20: Take full page screenshot as checkpoint
 ",Trivial,NEW
