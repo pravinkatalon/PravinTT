@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex w-full items-center gap-3 rounded-lg px-3 py-2 text-left text-sm font-medium transition hover:bg-base-200 text-[var(--accent-color)]</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dashboard</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +54,6 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

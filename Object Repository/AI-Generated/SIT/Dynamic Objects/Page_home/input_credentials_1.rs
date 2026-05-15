@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>_r_0_</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input w-full px-3 bg-base-100 border border-base-300 focus:border-[var(--accent-color)] focus:border-2 focus:outline-none placeholder-[var(--accent-font)]</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter username</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>place_holder</name>
       <type>Main</type>
       <value>Enter username</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>current-password</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,6 +94,6 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>20d5f32a-4858-4258-a86c-15d6c0292ca8</webElementGuid>
+      <webElementGuid>1054c250-77f9-4ac9-9f96-11500f2485a4</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

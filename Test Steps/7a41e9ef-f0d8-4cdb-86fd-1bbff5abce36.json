@@ -1,0 +1,154 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "46b30ed8-683b-4305-8bbd-1d6245b2e7af",
+      "name": "Navigate to https://pohr.vercel.app",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "e7c5dd00-ff59-43b5-abd6-8487fd0158d9",
+      "name": "Click on input credentials (username)",
+      "action_id": "5319a20b-b226-437f-94ef-154e633aad7b",
+      "timestamp": 1778840369186,
+      "target_name": "input_credentials",
+      "target_test_object_id": "05571c00-10ac-4c4e-9c25-d4e81eeedfc1",
+      "sub_steps": []
+    },
+    {
+      "id": "634cc2bc-5939-4dcc-80dc-16084416437b",
+      "name": "Enter input value in input credentials (username)",
+      "action_id": "8132a639-3165-49ed-a68d-217cac95a688",
+      "timestamp": 1778840370302,
+      "target_name": "input_credentials",
+      "target_test_object_id": "05571c00-10ac-4c4e-9c25-d4e81eeedfc1",
+      "sub_steps": []
+    },
+    {
+      "id": "05eb4ba6-8b4d-402d-b6c0-3d621bcc0ef3",
+      "name": "Click on input credentials (password)",
+      "action_id": "66658f98-1efe-4adc-9dcc-19a812aded2d",
+      "timestamp": 1778840372646,
+      "target_name": "input_credentials",
+      "target_test_object_id": "95d25687-50e2-40d8-9e02-66cff33d0d36",
+      "sub_steps": []
+    },
+    {
+      "id": "fa16dd04-a3ab-4e21-87be-1bd0c2dbcdad",
+      "name": "Enter input value in input credentials (password)",
+      "action_id": "8891009d-b9da-477a-9d2a-b2b78f8888cf",
+      "timestamp": 1778840372974,
+      "target_name": "input_credentials",
+      "target_test_object_id": "95d25687-50e2-40d8-9e02-66cff33d0d36",
+      "sub_steps": []
+    },
+    {
+      "id": "5ea24bf6-dd32-4b67-8697-44c9ded9b6cd",
+      "name": "Click on button login -> Navigate to page '/admin/dashboard'",
+      "action_id": "1edf5ce9-f920-41ec-b0fb-d4d2dfd88155",
+      "timestamp": 1778840385232,
+      "target_name": "button_login",
+      "target_test_object_id": "e5a17c8d-f103-449e-be50-91f6e9646b53",
+      "sub_steps": []
+    },
+    {
+      "id": "0aead8ed-155d-4fd4-82e5-f36ebce9e49f",
+      "name": "Click on button employees -> Navigate to page '/admin/employees'",
+      "action_id": "5d4f1bdd-36f5-42fa-bc5f-e74b77a2ba73",
+      "timestamp": 1778840392564,
+      "target_name": "button_employees",
+      "target_test_object_id": "4a356ccd-3a32-4e6c-8259-866946d80982",
+      "sub_steps": []
+    },
+    {
+      "id": "fd3389b4-555c-4019-82a7-126803bed2f4",
+      "name": "Click on input search",
+      "action_id": "f4fcd592-0b2d-4ae6-ac9b-70d3f33832e4",
+      "timestamp": 1778840395173,
+      "target_name": "input_search",
+      "target_test_object_id": "32bd9680-557c-4f05-8027-6c89ef45365b",
+      "sub_steps": []
+    },
+    {
+      "id": "abab5497-e2c0-4c07-89b8-50036d7cf930",
+      "name": "Enter input value in input search",
+      "action_id": "0d05ceea-302b-440a-a570-96077a071778",
+      "timestamp": 1778840396255,
+      "target_name": "input_search",
+      "target_test_object_id": "32bd9680-557c-4f05-8027-6c89ef45365b",
+      "sub_steps": []
+    },
+    {
+      "id": "153d0d84-9aab-46f5-95ba-af451f4b9a35",
+      "name": "Click on span icon",
+      "action_id": "99531c36-4363-4070-b5d4-acd807b55076",
+      "timestamp": 1778840398944,
+      "target_name": "span_icon",
+      "target_test_object_id": "a97672df-a9fd-4fdf-aa6f-e8bb1656bd07",
+      "sub_steps": []
+    },
+    {
+      "id": "5d5b9fcb-ec20-4b3e-b0d3-5772f598e799",
+      "name": "Click on input phone",
+      "action_id": "3ce974c3-fdd5-4c03-95e3-25c0ecd47d63",
+      "timestamp": 1778840402634,
+      "target_name": "input_phone",
+      "target_test_object_id": "215e8a61-3f50-4845-9191-f12f91afd6a0",
+      "sub_steps": []
+    },
+    {
+      "id": "2c5454df-87c6-45fa-a6ae-7caa4358c429",
+      "name": "Enter input value in input phone",
+      "action_id": "38e3f386-28f2-4566-904e-c9596f27ef26",
+      "timestamp": 1778840404988,
+      "target_name": "input_phone",
+      "target_test_object_id": "215e8a61-3f50-4845-9191-f12f91afd6a0",
+      "sub_steps": []
+    },
+    {
+      "id": "dd99643f-fe8a-47bf-a2ec-5366e0a7cf27",
+      "name": "Click on button employeeActions (updateEmployee)",
+      "action_id": "f52bd60d-849a-47e9-9194-d46d6516c185",
+      "timestamp": 1778840407552,
+      "target_name": "button_employeeActions",
+      "target_test_object_id": "b9a1648e-2697-4a73-acbb-f28c7ac495cd",
+      "sub_steps": []
+    },
+    {
+      "id": "b806493f-9298-4e74-b028-fad6b2a5010c",
+      "name": "Acknowledge alert dialog",
+      "action_id": "fcf4690d-2c36-4775-a95d-f014b24bd01f",
+      "timestamp": 1778840409077,
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "899578a3-a8fc-42e8-aa1f-0d3770d1a7dc",
+      "name": "Click on button employeeActions (cancel)",
+      "action_id": "93442165-fd71-49a0-822c-29929426f937",
+      "timestamp": 1778840410012,
+      "target_name": "button_employeeActions",
+      "target_test_object_id": "015d14f7-23de-4508-8e9e-eca35f4a4611",
+      "sub_steps": []
+    },
+    {
+      "id": "342fec39-6211-4b4f-8de1-c12d158c400a",
+      "name": "Click on button dashboard -> Navigate to page ''",
+      "action_id": "05312382-e33b-440b-b4f4-47488687a6c2",
+      "timestamp": 1778840412060,
+      "target_name": "button_dashboard",
+      "target_test_object_id": "eb2324c8-1824-46fd-87c9-2217acf0ce00",
+      "sub_steps": []
+    },
+    {
+      "id": "75380514-03a7-4d77-87b3-3c5734e3e285",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

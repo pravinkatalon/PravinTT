@@ -1,22 +1,19 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-6,Searching Employee,,"Step 1: Navigate to https://pohr.vercel.app
+7,Search an employee,,"Step 1: Navigate to https://pohr.vercel.app
 Step 2: Click on input credentials (username)
 Step 3: Enter input value in input credentials (username)
 Step 4: Click on input credentials (password)
 Step 5: Enter input value in input credentials (password)
 Step 6: Click on button login -> Navigate to page '/admin/dashboard'
 Step 7: Click on button employees -> Navigate to page '/admin/employees'
-Step 8: Click on span icon
-Step 9: Click on input search
-Step 10: Enter input value in input search
-Step 11: Click on span icon2
-Step 12: Click on button noManager
-Step 13: Click on span managerName
-Step 14: Click on button employeeActions (updateEmployee)
-Step 15: Acknowledge alert dialog
-Step 16: Click on button employeeActions (updateEmployee)
-Step 17: Acknowledge alert dialog
-Step 18: Click on button employeeActions (cancel)
-Step 19: Click on button dashboard -> Navigate to page ''
-Step 20: Take full page screenshot as checkpoint
+Step 8: Click on input search
+Step 9: Enter input value in input search
+Step 10: Click on span icon
+Step 11: Click on input phone
+Step 12: Enter input value in input phone
+Step 13: Click on button employeeActions (updateEmployee)
+Step 14: Acknowledge alert dialog
+Step 15: Click on button employeeActions (cancel)
+Step 16: Click on button dashboard -> Navigate to page ''
+Step 17: Take full page screenshot as checkpoint
 ",Trivial,NEW
